@@ -1,4 +1,4 @@
-﻿String myname = "Афанасьев Глеб";
+﻿﻿String myname = "Афанасьев Глеб";
 String mygroup = "ИСП-242";
 Console.WriteLine("\nПриветсвую вас! Добро пожаловать в мою программу!");
 Console.WriteLine($"ФИО: {myname}");
@@ -13,8 +13,8 @@ while (isRunning)
     Console.WriteLine("3 - Показать дату");
     Console.WriteLine("4 - Выход");
     Console.Write("\nВыберите цифру меню: ");
- string num = Console.ReadLine();
-}
+    string num = Console.ReadLine();
+
 switch (num)
 {
     case "1":
@@ -33,3 +33,4 @@ switch (num)
         Console.WriteLine("\nНеправильный ввод, попробуйте ещё раз");
         break;
     }
+}

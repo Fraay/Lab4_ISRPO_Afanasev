@@ -1,0 +1,15 @@
+C:\Lab4_ISRPO_Afanasev\server\bin\Debug\net10.0\server.exe
+C:\Lab4_ISRPO_Afanasev\server\bin\Debug\net10.0\server.deps.json
+C:\Lab4_ISRPO_Afanasev\server\bin\Debug\net10.0\server.runtimeconfig.json
+C:\Lab4_ISRPO_Afanasev\server\bin\Debug\net10.0\server.dll
+C:\Lab4_ISRPO_Afanasev\server\bin\Debug\net10.0\server.pdb
+C:\Lab4_ISRPO_Afanasev\server\obj\Debug\net10.0\server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Lab4_ISRPO_Afanasev\server\obj\Debug\net10.0\server.AssemblyInfoInputs.cache
+C:\Lab4_ISRPO_Afanasev\server\obj\Debug\net10.0\server.AssemblyInfo.cs
+C:\Lab4_ISRPO_Afanasev\server\obj\Debug\net10.0\server.csproj.CoreCompileInputs.cache
+C:\Lab4_ISRPO_Afanasev\server\obj\Debug\net10.0\server.sourcelink.json
+C:\Lab4_ISRPO_Afanasev\server\obj\Debug\net10.0\server.dll
+C:\Lab4_ISRPO_Afanasev\server\obj\Debug\net10.0\refint\server.dll
+C:\Lab4_ISRPO_Afanasev\server\obj\Debug\net10.0\server.pdb
+C:\Lab4_ISRPO_Afanasev\server\obj\Debug\net10.0\server.genruntimeconfig.cache
+C:\Lab4_ISRPO_Afanasev\server\obj\Debug\net10.0\ref\server.dll
