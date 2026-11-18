@@ -15,3 +15,21 @@ while (isRunning)
     Console.Write("\nВыберите цифру меню: ");
  string num = Console.ReadLine();
 }
+switch (num)
+{
+    case "1":
+        Console.WriteLine($"\nФИО: {myname}");
+        break;
+    case "2":
+        Console.WriteLine($"\nГруппа: {mygroup}");
+        break;
+    case "3":
+        Console.WriteLine($"\nВремя прямо сейчас: {DateTime.Now}");
+        break;
+    case "4":
+        isRunning = false;
+        break;
+    default:
+        Console.WriteLine("\nНеправильный ввод, попробуйте ещё раз");
+        break;
+    }
